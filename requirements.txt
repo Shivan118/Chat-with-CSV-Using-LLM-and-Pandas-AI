@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==1.5.3
+streamlit==1.29.0
+python-dotenv==1.0.0
+openai==1.3.0
+pandasai==2.3.0
+PyYAML==6.0.2
